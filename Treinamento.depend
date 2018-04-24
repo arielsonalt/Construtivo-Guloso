@@ -1,0 +1,1398 @@
+# depslib dependency file v1.0
+1503798363 source:c:\users\ariel\desktop\bolsa\projeto\treinamento\main.cpp
+	"include/Instancias.h"
+	"include/Distancias.h"
+	"include/Cliente.h"
+	"include/CT.h"
+	"include/Solucao.h"
+	<iostream>
+	<string.h>
+	<stdlib.h>
+
+1503673238 
+
+1503839437 c:\users\ariel\desktop\bolsa\projeto\treinamento\include\instancias.h
+	"../include/Distancias.h"
+	"../include/Cliente.h"
+	"../include/CT.h"
+	<vector>
+
+1242189978 c:\users\ariel\desktop\bolsa\projeto\treinamento\rapidxml-1.13\rapidxml.hpp
+	<cstdlib>
+	<cassert>
+	<new>
+	<exception>
+
+1504397182 >
+
+1242438560 c:\users\ariel\desktop\bolsa\projeto\treinamento\rapidxml-1.13\rapidxml_print.hpp
+	"rapidxml.hpp"
+	<ostream>
+	<iterator>
+
+1503486112 source:c:\users\ariel\desktop\bolsa\projeto\treinamento\src\ct.cpp
+	"../include/CT.h"
+	<string>
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+
+1503758918 c:\users\ariel\desktop\bolsa\projeto\treinamento\include\ct.h
+	"../include/Turma.h"
+	<string>
+	<vector>
+
+1503673217 source:c:\users\ariel\desktop\bolsa\projeto\treinamento\src\cliente.cpp
+	"../include/Cliente.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<string>
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
+1503486754 c:\users\ariel\desktop\bolsa\projeto\treinamento\include\cliente.h
+	<string>
+
+1503486128 source:c:\users\ariel\desktop\bolsa\projeto\treinamento\src\distancias.cpp
+	"../include/Distancias.h"
+	"../include/Instancias.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<string>
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
+1503673356 c:\users\ariel\desktop\bolsa\projeto\treinamento\include\distancias.h
+	<vector>
+
+1242438562 c:\users\ariel\desktop\bolsa\projeto\treinamento\rapidxml-1.13\rapidxml_utils.hpp
+	"rapidxml.hpp"
+	<vector>
+	<string>
+	<fstream>
+	<stdexcept>
+
+1503486138 source:c:\users\ariel\desktop\bolsa\projeto\treinamento\src\instancias.cpp
+	"../include/Instancias.h"
+	"../include/Distancias.h"
+	"../include/CT.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<string>
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
+1503840759 source:c:\users\ariel\desktop\bolsa\projeto\treinamento\src\solucao.cpp
+	"../include/Solucao.h"
+	<string>
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+	<vector>
+	<algorithm>
+	<ctime>
+
+1503840153 c:\users\ariel\desktop\bolsa\projeto\treinamento\include\solucao.h
+	"../include/Instancias.h"
+	"../include/Turma.h"
+	<vector>
+
+1503673386 c:\users\ariel\desktop\bolsa\projeto\treinamento\include\turma.h
+	"../include/Cliente.h"
+	<vector>
+
+1503673238 source:c:\users\ariel\desktop\bolsa\projeto\treinamento\src\turma.cpp
+	"../include/Turma.h"
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+	<vector>
+
+1502738694 source:c:\users\aluno\desktop\treinamento\main.cpp
+	"include/Instancias.h"
+	"include/Distancias.h"
+	"include/Cliente.h"
+	"include/CT.h"
+	"include/Solucao.h"
+	<iostream>
+	<string.h>
+	<stdlib.h>
+
+1502732438 c:\users\aluno\desktop\treinamento\include\instancias.h
+	"../include/Distancias.h"
+	"../include/Cliente.h"
+	"../include/CT.h"
+	<vector>
+
+1497296464 c:\users\aluno\desktop\treinamento\include\distancias.h
+	<vector>
+
+1497296323 c:\users\aluno\desktop\treinamento\include\cliente.h
+	<string>
+
+1502737658 c:\users\aluno\desktop\treinamento\include\ct.h
+	"../include/Turma.h"
+	<string>
+	<vector>
+
+1502730126 c:\users\aluno\desktop\treinamento\include\turma.h
+	"../include/Cliente.h"
+	<vector>
+
+1502730212 c:\users\aluno\desktop\treinamento\include\solucao.h
+	"../include/Instancias.h"
+	"../include/Turma.h"
+	<vector>
+
+1495766789 source:c:\users\aluno\desktop\treinamento\src\cliente.cpp
+	"Cliente.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<string>
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
+1242189978 c:\users\aluno\desktop\treinamento\rapidxml-1.13\rapidxml.hpp
+	<cstdlib>
+	<cassert>
+	<new>
+	<exception>
+
+1242438560 c:\users\aluno\desktop\treinamento\rapidxml-1.13\rapidxml_print.hpp
+	"rapidxml.hpp"
+	<ostream>
+	<iterator>
+
+1242438562 c:\users\aluno\desktop\treinamento\rapidxml-1.13\rapidxml_utils.hpp
+	"rapidxml.hpp"
+	<vector>
+	<string>
+	<fstream>
+	<stdexcept>
+
+1497053897 source:c:\users\aluno\desktop\treinamento\src\ct.cpp
+	"CT.h"
+	<string>
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+
+1495742650 source:c:\users\aluno\desktop\treinamento\src\distancias.cpp
+	"Distancias.h"
+	"Instancias.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<string>
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
+1497297006 source:c:\users\aluno\desktop\treinamento\src\instancias.cpp
+	"Instancias.h"
+	"Distancias.h"
+	"CT.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<string>
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
+1497053825 source:c:\users\aluno\desktop\treinamento\src\turma.cpp
+	"Turma.h"
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+	<vector>
+
+1502913378 source:c:\users\aluno\desktop\treinamento\src\solucao.cpp
+	"Solucao.h"
+	<string>
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+	<vector>
+
+1502738694 source:c:\users\casi\desktop\treinamento\main.cpp
+	"include/Instancias.h"
+	"include/Distancias.h"
+	"include/Cliente.h"
+	"include/CT.h"
+	"include/Solucao.h"
+	<iostream>
+	<string.h>
+	<stdlib.h>
+
+1502732438 c:\users\casi\desktop\treinamento\include\instancias.h
+	"../include/Distancias.h"
+	"../include/Cliente.h"
+	"../include/CT.h"
+	<vector>
+
+1497296464 c:\users\casi\desktop\treinamento\include\distancias.h
+	<vector>
+
+1497296323 c:\users\casi\desktop\treinamento\include\cliente.h
+	<string>
+
+1502737658 c:\users\casi\desktop\treinamento\include\ct.h
+	"../include/Turma.h"
+	<string>
+	<vector>
+
+1502730126 c:\users\casi\desktop\treinamento\include\turma.h
+	"../include/Cliente.h"
+	<vector>
+
+1503000807 c:\users\casi\desktop\treinamento\include\solucao.h
+	"../include/Instancias.h"
+	"../include/Turma.h"
+	<vector>
+
+1495766789 source:c:\users\casi\desktop\treinamento\src\cliente.cpp
+	"Cliente.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<string>
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
+1242189978 c:\users\casi\desktop\treinamento\rapidxml-1.13\rapidxml.hpp
+	<cstdlib>
+	<cassert>
+	<new>
+	<exception>
+
+1242438560 c:\users\casi\desktop\treinamento\rapidxml-1.13\rapidxml_print.hpp
+	"rapidxml.hpp"
+	<ostream>
+	<iterator>
+
+1242438562 c:\users\casi\desktop\treinamento\rapidxml-1.13\rapidxml_utils.hpp
+	"rapidxml.hpp"
+	<vector>
+	<string>
+	<fstream>
+	<stdexcept>
+
+1497053897 source:c:\users\casi\desktop\treinamento\src\ct.cpp
+	"CT.h"
+	<string>
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+
+1495742650 source:c:\users\casi\desktop\treinamento\src\distancias.cpp
+	"Distancias.h"
+	"Instancias.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<string>
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
+1497297006 source:c:\users\casi\desktop\treinamento\src\instancias.cpp
+	"Instancias.h"
+	"Distancias.h"
+	"CT.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<string>
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
+1497053825 source:c:\users\casi\desktop\treinamento\src\turma.cpp
+	"Turma.h"
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+	<vector>
+
+1503002431 source:c:\users\casi\desktop\treinamento\src\solucao.cpp
+	"Solucao.h"
+	<string>
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+	<vector>
+
+1505566238 source:c:\users\ariel\desktop\teste\treinamento\main.cpp
+	"include/Instancia.h"
+	"include/Solucao.h"
+	"include/ConstrutivoGuloso.h"
+	<iostream>
+
+1503839437 c:\users\ariel\desktop\teste\treinamento\include\instancias.h
+	"../include/Distancias.h"
+	"../include/Cliente.h"
+	"../include/CT.h"
+	<vector>
+
+1504478206 c:\users\ariel\desktop\teste\treinamento\include\distancias.h
+	<vector>
+
+1504478218 c:\users\ariel\desktop\teste\treinamento\include\cliente.h
+	<string>
+
+1504478198 c:\users\ariel\desktop\teste\treinamento\include\ct.h
+	<string>
+
+1504478188 c:\users\ariel\desktop\teste\treinamento\include\turma.h
+	"../include/Cliente.h"
+	<vector>
+
+1504899592 c:\users\ariel\desktop\teste\treinamento\include\solucao.h
+	"../include/Instancia.h"
+	"../include/Turma.h"
+	"../include/CT.h"
+	<vector>
+
+1503673217 source:c:\users\ariel\desktop\teste\treinamento\src\cliente.cpp
+	"../include/Cliente.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<string>
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
+1242189978 c:\users\ariel\desktop\teste\treinamento\rapidxml-1.13\rapidxml.hpp
+	<cstdlib>
+	<cassert>
+	<new>
+	<exception>
+
+1504043775 c:\users\ariel\desktop\teste\treinamento\rapidxml-1.13\rapidxml_print.hpp
+	"rapidxml.hpp"
+	<ostream>
+	<iterator>
+
+1242438562 c:\users\ariel\desktop\teste\treinamento\rapidxml-1.13\rapidxml_utils.hpp
+	"rapidxml.hpp"
+	<vector>
+	<string>
+	<fstream>
+	<stdexcept>
+
+1503486112 source:c:\users\ariel\desktop\teste\treinamento\src\ct.cpp
+	"../include/CT.h"
+	<string>
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+
+1503486128 source:c:\users\ariel\desktop\teste\treinamento\src\distancias.cpp
+	"../include/Distancias.h"
+	"../include/Instancias.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<string>
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
+1504398611 source:c:\users\ariel\desktop\teste\treinamento\src\instancias.cpp
+	"../include/Instancias.h"
+	"../include/Distancias.h"
+	"../include/CT.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<string>
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
+1503673238 source:c:\users\ariel\desktop\teste\treinamento\src\turma.cpp
+	"../include/Turma.h"
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+	<vector>
+
+1504899812 source:c:\users\ariel\desktop\teste\treinamento\src\solucao.cpp
+	"../include/Solucao.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	<algorithm>
+	<ctime>
+
+1504480276 c:\users\ariel\desktop\teste\treinamento\include\construtivoguloso.h
+	"../include/Solucao.h"
+
+1504398448 e/Solucao.h"
+
+1504900536 source:c:\users\ariel\desktop\teste\treinamento\src\construtivoguloso.cpp
+	"ConstrutivoGuloso.h"
+	<algorithm>
+	<string>
+	<iostream>
+	<ctime>
+
+1504899665 source:/home/arduarte/√Årea de Trabalho/Arielson/Treinamento_2017-09-03/main.cpp
+	"include/Instancia.h"
+	"include/Solucao.h"
+	"include/ConstrutivoGuloso.h"
+	<iostream>
+
+1504478170 /home/arduarte/√Årea de Trabalho/Arielson/Treinamento_2017-09-03/include/Instancias.h
+	"../include/Distancias.h"
+	"../include/Cliente.h"
+	"../include/CT.h"
+	<vector>
+
+1504478206 /home/arduarte/√Årea de Trabalho/Arielson/Treinamento_2017-09-03/include/Distancias.h
+	<vector>
+
+1504478218 /home/arduarte/√Årea de Trabalho/Arielson/Treinamento_2017-09-03/include/Cliente.h
+	<string>
+
+1504478198 /home/arduarte/√Årea de Trabalho/Arielson/Treinamento_2017-09-03/include/CT.h
+	<string>
+
+1504478189 /home/arduarte/√Årea de Trabalho/Arielson/Treinamento_2017-09-03/include/Turma.h
+	"../include/Cliente.h"
+	<vector>
+
+1504480276 /home/arduarte/√Årea de Trabalho/Arielson/Treinamento_2017-09-03/include/ConstrutivoGuloso.h
+	"../include/Solucao.h"
+
+1504899592 /home/arduarte/√Årea de Trabalho/Arielson/Treinamento_2017-09-03/include/Solucao.h
+	"../include/Instancia.h"
+	"../include/Turma.h"
+	"../include/CT.h"
+	<vector>
+
+1503673217 source:/home/arduarte/√Årea de Trabalho/Arielson/Treinamento_2017-09-03/src/Cliente.cpp
+	"../include/Cliente.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<string>
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
+1242189978 /home/arduarte/√Årea de Trabalho/Arielson/Treinamento_2017-09-03/rapidxml-1.13/rapidxml.hpp
+	<cstdlib>
+	<cassert>
+	<new>
+	<exception>
+
+1242438560 /home/arduarte/√Årea de Trabalho/Arielson/Treinamento_2017-09-03/rapidxml-1.13/rapidxml_print.hpp
+	"rapidxml.hpp"
+	<ostream>
+	<iterator>
+
+1242438562 /home/arduarte/√Årea de Trabalho/Arielson/Treinamento_2017-09-03/rapidxml-1.13/rapidxml_utils.hpp
+	"rapidxml.hpp"
+	<vector>
+	<string>
+	<fstream>
+	<stdexcept>
+
+1504899405 source:/home/arduarte/√Årea de Trabalho/Arielson/Treinamento_2017-09-03/src/ConstrutivoGuloso.cpp
+	"ConstrutivoGuloso.h"
+	<algorithm>
+	<string>
+	<iostream>
+	<ctime>
+
+1503486112 source:/home/arduarte/√Årea de Trabalho/Arielson/Treinamento_2017-09-03/src/CT.cpp
+	"../include/CT.h"
+	<string>
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+
+1503486128 source:/home/arduarte/√Årea de Trabalho/Arielson/Treinamento_2017-09-03/src/Distancias.cpp
+	"../include/Distancias.h"
+	"../include/Instancias.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<string>
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
+1504449225 source:/home/arduarte/√Årea de Trabalho/Arielson/Treinamento_2017-09-03/src/Instancias.cpp
+	"../include/Instancias.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<string>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
+1504899813 source:/home/arduarte/√Årea de Trabalho/Arielson/Treinamento_2017-09-03/src/Solucao.cpp
+	"../include/Solucao.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	<algorithm>
+	<ctime>
+
+1503673238 source:/home/arduarte/√Årea de Trabalho/Arielson/Treinamento_2017-09-03/src/Turma.cpp
+	"../include/Turma.h"
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+	<vector>
+
+1504479988 /home/arduarte/√Årea de Trabalho/Arielson/Treinamento_2017-09-03/include/Instancia.h
+	"../include/Distancias.h"
+	"../include/Cliente.h"
+	"../include/CT.h"
+	<vector>
+
+1504480690 source:/home/arduarte/√Årea de Trabalho/Arielson/Treinamento_2017-09-03/src/Instancia.cpp
+	"../include/Instancia.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<string>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
+1504479988 c:\users\ariel\desktop\teste\treinamento\include\instancia.h
+	"../include/Distancias.h"
+	"../include/Cliente.h"
+	"../include/CT.h"
+	<vector>
+
+1504480690 source:c:\users\ariel\desktop\teste\treinamento\src\instancia.cpp
+	"../include/Instancia.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<string>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
+1504904136 source:c:\users\ariel\documents\teste execuÁ„o\treinamento\src\construtivoguloso.cpp
+	"ConstrutivoGuloso.h"
+	<algorithm>
+	<string>
+	<iostream>
+	<ctime>
+
+1504483876 c:\users\ariel\documents\teste execuÁ„o\treinamento\include\construtivoguloso.h
+	"../include/Solucao.h"
+
+1504903192 c:\users\ariel\documents\teste execuÁ„o\treinamento\include\solucao.h
+	"../include/Instancia.h"
+	"../include/Turma.h"
+	"../include/CT.h"
+	<vector>
+
+1504483588 c:\users\ariel\documents\teste execuÁ„o\treinamento\include\instancia.h
+	"../include/Distancias.h"
+	"../include/Cliente.h"
+	"../include/CT.h"
+	<vector>
+
+1504481806 c:\users\ariel\documents\teste execuÁ„o\treinamento\include\distancias.h
+	<vector>
+
+1504481818 c:\users\ariel\documents\teste execuÁ„o\treinamento\include\cliente.h
+	<string>
+
+1504481798 c:\users\ariel\documents\teste execuÁ„o\treinamento\include\ct.h
+	<string>
+
+1504481788 c:\users\ariel\documents\teste execuÁ„o\treinamento\include\turma.h
+	"../include/Cliente.h"
+	<vector>
+
+1510617890 source:c:\users\ariel\documents\teste execuÁ„o\treinamento\src\instancia.cpp
+	"../include/Instancia.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<string>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
+1242193578 c:\users\ariel\documents\teste execuÁ„o\treinamento\rapidxml-1.13\rapidxml.hpp
+	<cstdlib>
+	<cassert>
+	<new>
+	<exception>
+
+1504047375 c:\users\ariel\documents\teste execuÁ„o\treinamento\rapidxml-1.13\rapidxml_print.hpp
+	"rapidxml.hpp"
+	<ostream>
+	<iterator>
+
+1242442162 c:\users\ariel\documents\teste execuÁ„o\treinamento\rapidxml-1.13\rapidxml_utils.hpp
+	"rapidxml.hpp"
+	<vector>
+	<string>
+	<fstream>
+	<stdexcept>
+
+1504903412 source:c:\users\ariel\documents\teste execuÁ„o\treinamento\src\solucao.cpp
+	"../include/Solucao.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	<algorithm>
+	<ctime>
+
+1510338477 source:c:\users\ariel\documents\teste execuÁ„o\treinamento\main.cpp
+	"include/Instancia.h"
+	"include/Solucao.h"
+	"include/ConstrutivoGuloso.h"
+	<iostream>
+
+1510338477 source:c:\users\ariel\documents\teste execuÁ„o\treinamento2\main.cpp
+	"include/Instancia.h"
+	"include/Solucao.h"
+	"include/ConstrutivoGuloso.h"
+	<iostream>
+
+1504483588 c:\users\ariel\documents\teste execuÁ„o\treinamento2\include\instancia.h
+	"../include/Distancias.h"
+	"../include/Cliente.h"
+	"../include/CT.h"
+	<vector>
+
+1504481806 c:\users\ariel\documents\teste execuÁ„o\treinamento2\include\distancias.h
+	<vector>
+
+1504481818 c:\users\ariel\documents\teste execuÁ„o\treinamento2\include\cliente.h
+	<string>
+
+1504481798 c:\users\ariel\documents\teste execuÁ„o\treinamento2\include\ct.h
+	<string>
+
+1504903192 c:\users\ariel\documents\teste execuÁ„o\treinamento2\include\solucao.h
+	"../include/Instancia.h"
+	"../include/Turma.h"
+	"../include/CT.h"
+	<vector>
+
+1504481788 c:\users\ariel\documents\teste execuÁ„o\treinamento2\include\turma.h
+	"../include/Cliente.h"
+	<vector>
+
+1504483876 c:\users\ariel\documents\teste execuÁ„o\treinamento2\include\construtivoguloso.h
+	"../include/Solucao.h"
+
+1504904136 source:c:\users\ariel\documents\teste execuÁ„o\treinamento2\src\construtivoguloso.cpp
+	"ConstrutivoGuloso.h"
+	<algorithm>
+	<string>
+	<iostream>
+	<ctime>
+
+1510617890 source:c:\users\ariel\documents\teste execuÁ„o\treinamento2\src\instancia.cpp
+	"../include/Instancia.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<string>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
+1242193578 c:\users\ariel\documents\teste execuÁ„o\treinamento2\rapidxml-1.13\rapidxml.hpp
+	<cstdlib>
+	<cassert>
+	<new>
+	<exception>
+
+1504047375 c:\users\ariel\documents\teste execuÁ„o\treinamento2\rapidxml-1.13\rapidxml_print.hpp
+	"rapidxml.hpp"
+	<ostream>
+	<iterator>
+
+1242442162 c:\users\ariel\documents\teste execuÁ„o\treinamento2\rapidxml-1.13\rapidxml_utils.hpp
+	"rapidxml.hpp"
+	<vector>
+	<string>
+	<fstream>
+	<stdexcept>
+
+1504903412 source:c:\users\ariel\documents\teste execuÁ„o\treinamento2\src\solucao.cpp
+	"../include/Solucao.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	<algorithm>
+	<ctime>
+
+1510338477 source:c:\users\ariel\documents\teste execuÁ„o\treinamento2\tentativa 1\main.cpp
+	"include/Instancia.h"
+	"include/Solucao.h"
+	"include/ConstrutivoGuloso.h"
+	<iostream>
+
+1504483588 c:\users\ariel\documents\teste execuÁ„o\treinamento2\tentativa 1\include\instancia.h
+	"../include/Distancias.h"
+	"../include/Cliente.h"
+	"../include/CT.h"
+	<vector>
+
+1504481806 c:\users\ariel\documents\teste execuÁ„o\treinamento2\tentativa 1\include\distancias.h
+	<vector>
+
+1504481818 c:\users\ariel\documents\teste execuÁ„o\treinamento2\tentativa 1\include\cliente.h
+	<string>
+
+1504481798 c:\users\ariel\documents\teste execuÁ„o\treinamento2\tentativa 1\include\ct.h
+	<string>
+
+1504903192 c:\users\ariel\documents\teste execuÁ„o\treinamento2\tentativa 1\include\solucao.h
+	"../include/Instancia.h"
+	"../include/Turma.h"
+	"../include/CT.h"
+	<vector>
+
+1504481788 c:\users\ariel\documents\teste execuÁ„o\treinamento2\tentativa 1\include\turma.h
+	"../include/Cliente.h"
+	<vector>
+
+1504483876 c:\users\ariel\documents\teste execuÁ„o\treinamento2\tentativa 1\include\construtivoguloso.h
+	"../include/Solucao.h"
+
+1504904136 source:c:\users\ariel\documents\teste execuÁ„o\treinamento2\tentativa 1\src\construtivoguloso.cpp
+	"ConstrutivoGuloso.h"
+	<algorithm>
+	<string>
+	<iostream>
+	<ctime>
+
+1510621360 source:c:\users\ariel\documents\teste execuÁ„o\treinamento2\tentativa 1\src\instancia.cpp
+	"../include/Instancia.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<string>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
+1242193578 c:\users\ariel\documents\teste execuÁ„o\treinamento2\tentativa 1\rapidxml-1.13\rapidxml.hpp
+	<cstdlib>
+	<cassert>
+	<new>
+	<exception>
+
+1504047375 c:\users\ariel\documents\teste execuÁ„o\treinamento2\tentativa 1\rapidxml-1.13\rapidxml_print.hpp
+	"rapidxml.hpp"
+	<ostream>
+	<iterator>
+
+1242442162 c:\users\ariel\documents\teste execuÁ„o\treinamento2\tentativa 1\rapidxml-1.13\rapidxml_utils.hpp
+	"rapidxml.hpp"
+	<vector>
+	<string>
+	<fstream>
+	<stdexcept>
+
+1504903412 source:c:\users\ariel\documents\teste execuÁ„o\treinamento2\tentativa 1\src\solucao.cpp
+	"../include/Solucao.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	<algorithm>
+	<ctime>
+
+1510338477 source:c:\users\ariel\documents\teste execuÁ„o\treinamento2\nova pasta\main.cpp
+	"include/Instancia.h"
+	"include/Solucao.h"
+	"include/ConstrutivoGuloso.h"
+	<iostream>
+
+1504483588 c:\users\ariel\documents\teste execuÁ„o\treinamento2\nova pasta\include\instancia.h
+	"../include/Distancias.h"
+	"../include/Cliente.h"
+	"../include/CT.h"
+	<vector>
+
+1504481806 c:\users\ariel\documents\teste execuÁ„o\treinamento2\nova pasta\include\distancias.h
+	<vector>
+
+1504481818 c:\users\ariel\documents\teste execuÁ„o\treinamento2\nova pasta\include\cliente.h
+	<string>
+
+1504481798 c:\users\ariel\documents\teste execuÁ„o\treinamento2\nova pasta\include\ct.h
+	<string>
+
+1504903192 c:\users\ariel\documents\teste execuÁ„o\treinamento2\nova pasta\include\solucao.h
+	"../include/Instancia.h"
+	"../include/Turma.h"
+	"../include/CT.h"
+	<vector>
+
+1504481788 c:\users\ariel\documents\teste execuÁ„o\treinamento2\nova pasta\include\turma.h
+	"../include/Cliente.h"
+	<vector>
+
+1504483876 c:\users\ariel\documents\teste execuÁ„o\treinamento2\nova pasta\include\construtivoguloso.h
+	"../include/Solucao.h"
+
+1504904136 source:c:\users\ariel\documents\teste execuÁ„o\treinamento2\nova pasta\src\construtivoguloso.cpp
+	"ConstrutivoGuloso.h"
+	<algorithm>
+	<string>
+	<iostream>
+	<ctime>
+
+1510625212 source:c:\users\ariel\documents\teste execuÁ„o\treinamento2\nova pasta\src\instancia.cpp
+	"../include/Instancia.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<string>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
+1242193578 c:\users\ariel\documents\teste execuÁ„o\treinamento2\nova pasta\rapidxml-1.13\rapidxml.hpp
+	<cstdlib>
+	<cassert>
+	<new>
+	<exception>
+
+1504047375 c:\users\ariel\documents\teste execuÁ„o\treinamento2\nova pasta\rapidxml-1.13\rapidxml_print.hpp
+	"rapidxml.hpp"
+	<ostream>
+	<iterator>
+
+1242442162 c:\users\ariel\documents\teste execuÁ„o\treinamento2\nova pasta\rapidxml-1.13\rapidxml_utils.hpp
+	"rapidxml.hpp"
+	<vector>
+	<string>
+	<fstream>
+	<stdexcept>
+
+1504903412 source:c:\users\ariel\documents\teste execuÁ„o\treinamento2\nova pasta\src\solucao.cpp
+	"../include/Solucao.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	<algorithm>
+	<ctime>
+
+1510625866 source:c:\users\ariel\documents\teste execuÁ„o\treinamento2\nova pasta (2)\main.cpp
+	"include/Instancia.h"
+	"include/Solucao.h"
+	"include/ConstrutivoGuloso.h"
+	<iostream>
+
+1504483588 c:\users\ariel\documents\teste execuÁ„o\treinamento2\nova pasta (2)\include\instancia.h
+	"../include/Distancias.h"
+	"../include/Cliente.h"
+	"../include/CT.h"
+	<vector>
+
+1504481806 c:\users\ariel\documents\teste execuÁ„o\treinamento2\nova pasta (2)\include\distancias.h
+	<vector>
+
+1504481818 c:\users\ariel\documents\teste execuÁ„o\treinamento2\nova pasta (2)\include\cliente.h
+	<string>
+
+1504481798 c:\users\ariel\documents\teste execuÁ„o\treinamento2\nova pasta (2)\include\ct.h
+	<string>
+
+1504903192 c:\users\ariel\documents\teste execuÁ„o\treinamento2\nova pasta (2)\include\solucao.h
+	"../include/Instancia.h"
+	"../include/Turma.h"
+	"../include/CT.h"
+	<vector>
+
+1504481788 c:\users\ariel\documents\teste execuÁ„o\treinamento2\nova pasta (2)\include\turma.h
+	"../include/Cliente.h"
+	<vector>
+
+1504483876 c:\users\ariel\documents\teste execuÁ„o\treinamento2\nova pasta (2)\include\construtivoguloso.h
+	"../include/Solucao.h"
+
+1504904136 source:c:\users\ariel\documents\teste execuÁ„o\treinamento2\nova pasta (2)\src\construtivoguloso.cpp
+	"ConstrutivoGuloso.h"
+	<algorithm>
+	<string>
+	<iostream>
+	<ctime>
+
+1510625680 source:c:\users\ariel\documents\teste execuÁ„o\treinamento2\nova pasta (2)\src\instancia.cpp
+	"../include/Instancia.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<string>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
+1242193578 c:\users\ariel\documents\teste execuÁ„o\treinamento2\nova pasta (2)\rapidxml-1.13\rapidxml.hpp
+	<cstdlib>
+	<cassert>
+	<new>
+	<exception>
+
+1504047375 c:\users\ariel\documents\teste execuÁ„o\treinamento2\nova pasta (2)\rapidxml-1.13\rapidxml_print.hpp
+	"rapidxml.hpp"
+	<ostream>
+	<iterator>
+
+1242442162 c:\users\ariel\documents\teste execuÁ„o\treinamento2\nova pasta (2)\rapidxml-1.13\rapidxml_utils.hpp
+	"rapidxml.hpp"
+	<vector>
+	<string>
+	<fstream>
+	<stdexcept>
+
+1504903412 source:c:\users\ariel\documents\teste execuÁ„o\treinamento2\nova pasta (2)\src\solucao.cpp
+	"../include/Solucao.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	<algorithm>
+	<ctime>
+
+1510625866 source:c:\users\ariel\documents\teste execuÁ„o\main.cpp
+	"include/Instancia.h"
+	"include/Solucao.h"
+	"include/ConstrutivoGuloso.h"
+	<iostream>
+
+1504483588 c:\users\ariel\documents\teste execuÁ„o\include\instancia.h
+	"../include/Distancias.h"
+	"../include/Cliente.h"
+	"../include/CT.h"
+	<vector>
+
+1504481806 c:\users\ariel\documents\teste execuÁ„o\include\distancias.h
+	<vector>
+
+1504481818 c:\users\ariel\documents\teste execuÁ„o\include\cliente.h
+	<string>
+
+1504481798 c:\users\ariel\documents\teste execuÁ„o\include\ct.h
+	<string>
+
+1504903192 c:\users\ariel\documents\teste execuÁ„o\include\solucao.h
+	"../include/Instancia.h"
+	"../include/Turma.h"
+	"../include/CT.h"
+	<vector>
+
+1504481788 c:\users\ariel\documents\teste execuÁ„o\include\turma.h
+	"../include/Cliente.h"
+	<vector>
+
+1504483876 c:\users\ariel\documents\teste execuÁ„o\include\construtivoguloso.h
+	"../include/Solucao.h"
+
+1504904136 source:c:\users\ariel\documents\teste execuÁ„o\src\construtivoguloso.cpp
+	"ConstrutivoGuloso.h"
+	<algorithm>
+	<string>
+	<iostream>
+	<ctime>
+
+1510794890 source:c:\users\ariel\documents\teste execuÁ„o\src\instancia.cpp
+	"../include/Instancia.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<string>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
+1242193578 c:\users\ariel\documents\teste execuÁ„o\rapidxml-1.13\rapidxml.hpp
+	<cstdlib>
+	<cassert>
+	<new>
+	<exception>
+
+1504047375 c:\users\ariel\documents\teste execuÁ„o\rapidxml-1.13\rapidxml_print.hpp
+	"rapidxml.hpp"
+	<ostream>
+	<iterator>
+
+1242442162 c:\users\ariel\documents\teste execuÁ„o\rapidxml-1.13\rapidxml_utils.hpp
+	"rapidxml.hpp"
+	<vector>
+	<string>
+	<fstream>
+	<stdexcept>
+
+1504903412 source:c:\users\ariel\documents\teste execuÁ„o\src\solucao.cpp
+	"../include/Solucao.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	<algorithm>
+	<ctime>
+
+1510625866 source:c:\users\ariel\documents\teste execuÁ„o\nova pasta\main.cpp
+	"include/Instancia.h"
+	"include/Solucao.h"
+	"include/ConstrutivoGuloso.h"
+	<iostream>
+
+1504483588 c:\users\ariel\documents\teste execuÁ„o\nova pasta\include\instancia.h
+	"../include/Distancias.h"
+	"../include/Cliente.h"
+	"../include/CT.h"
+	<vector>
+
+1504481806 c:\users\ariel\documents\teste execuÁ„o\nova pasta\include\distancias.h
+	<vector>
+
+1504481818 c:\users\ariel\documents\teste execuÁ„o\nova pasta\include\cliente.h
+	<string>
+
+1504481798 c:\users\ariel\documents\teste execuÁ„o\nova pasta\include\ct.h
+	<string>
+
+1504903192 c:\users\ariel\documents\teste execuÁ„o\nova pasta\include\solucao.h
+	"../include/Instancia.h"
+	"../include/Turma.h"
+	"../include/CT.h"
+	<vector>
+
+1504481788 c:\users\ariel\documents\teste execuÁ„o\nova pasta\include\turma.h
+	"../include/Cliente.h"
+	<vector>
+
+1504483876 c:\users\ariel\documents\teste execuÁ„o\nova pasta\include\construtivoguloso.h
+	"../include/Solucao.h"
+
+1504904136 source:c:\users\ariel\documents\teste execuÁ„o\nova pasta\src\construtivoguloso.cpp
+	"ConstrutivoGuloso.h"
+	<algorithm>
+	<string>
+	<iostream>
+	<ctime>
+
+1510794890 source:c:\users\ariel\documents\teste execuÁ„o\nova pasta\src\instancia.cpp
+	"../include/Instancia.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<string>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
+1242193578 c:\users\ariel\documents\teste execuÁ„o\nova pasta\rapidxml-1.13\rapidxml.hpp
+	<cstdlib>
+	<cassert>
+	<new>
+	<exception>
+
+1504047375 c:\users\ariel\documents\teste execuÁ„o\nova pasta\rapidxml-1.13\rapidxml_print.hpp
+	"rapidxml.hpp"
+	<ostream>
+	<iterator>
+
+1242442162 c:\users\ariel\documents\teste execuÁ„o\nova pasta\rapidxml-1.13\rapidxml_utils.hpp
+	"rapidxml.hpp"
+	<vector>
+	<string>
+	<fstream>
+	<stdexcept>
+
+1504903412 source:c:\users\ariel\documents\teste execuÁ„o\nova pasta\src\solucao.cpp
+	"../include/Solucao.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	<algorithm>
+	<ctime>
+
+1511123435 source:c:\users\ariel\documents\teste execuÁ„o\nova pasta (2)\src\construtivoguloso.cpp
+	"ConstrutivoGuloso.h"
+	<algorithm>
+	<string>
+	<iostream>
+	<ctime>
+
+1511118885 c:\users\ariel\documents\teste execuÁ„o\nova pasta (2)\include\construtivoguloso.h
+	"../include/Solucao.h"
+
+1511117466 c:\users\ariel\documents\teste execuÁ„o\nova pasta (2)\include\solucao.h
+	"../include/Instancia.h"
+	"../include/Turma.h"
+	"../include/CT.h"
+	<vector>
+
+1504483588 c:\users\ariel\documents\teste execuÁ„o\nova pasta (2)\include\instancia.h
+	"../include/Distancias.h"
+	"../include/Cliente.h"
+	"../include/CT.h"
+	<vector>
+
+1504481806 c:\users\ariel\documents\teste execuÁ„o\nova pasta (2)\include\distancias.h
+	<vector>
+
+1504481818 c:\users\ariel\documents\teste execuÁ„o\nova pasta (2)\include\cliente.h
+	<string>
+
+1504481798 c:\users\ariel\documents\teste execuÁ„o\nova pasta (2)\include\ct.h
+	<string>
+
+1504481788 c:\users\ariel\documents\teste execuÁ„o\nova pasta (2)\include\turma.h
+	"../include/Cliente.h"
+	<vector>
+
+1511303331 source:c:\users\ariel\documents\teste execuÁ„o\nova pasta (2)\src\instancia.cpp
+	"../include/Instancia.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<string>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
+1242193578 c:\users\ariel\documents\teste execuÁ„o\nova pasta (2)\rapidxml-1.13\rapidxml.hpp
+	<cstdlib>
+	<cassert>
+	<new>
+	<exception>
+
+1504047375 c:\users\ariel\documents\teste execuÁ„o\nova pasta (2)\rapidxml-1.13\rapidxml_print.hpp
+	"rapidxml.hpp"
+	<ostream>
+	<iterator>
+
+1242442162 c:\users\ariel\documents\teste execuÁ„o\nova pasta (2)\rapidxml-1.13\rapidxml_utils.hpp
+	"rapidxml.hpp"
+	<vector>
+	<string>
+	<fstream>
+	<stdexcept>
+
+1511303283 source:c:\users\ariel\documents\teste execuÁ„o\nova pasta (2)\src\solucao.cpp
+	"../include/Solucao.h"
+	"../include/ConstrutivoGuloso.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	<algorithm>
+	<ctime>
+
+1511205485 source:c:\users\ariel\documents\teste execuÁ„o\nova pasta (2)\main.cpp
+	"include/Instancia.h"
+	"include/Solucao.h"
+	"include/ConstrutivoGuloso.h"
+	<iostream>
+
+1523462372 source:c:\users\ariel\documents\teste execuÁ„o\nova pasta (2) - copia\main.cpp
+	"include/Instancia.h"
+	"include/Solucao.h"
+	"include/ConstrutivoGuloso.h"
+	<iostream>
+
+1504479988 c:\users\ariel\documents\teste execuÁ„o\nova pasta (2) - copia\include\instancia.h
+	"../include/Distancias.h"
+	"../include/Cliente.h"
+	"../include/CT.h"
+	<vector>
+
+1504478206 c:\users\ariel\documents\teste execuÁ„o\nova pasta (2) - copia\include\distancias.h
+	<vector>
+
+1504478218 c:\users\ariel\documents\teste execuÁ„o\nova pasta (2) - copia\include\cliente.h
+	<string>
+
+1504478198 c:\users\ariel\documents\teste execuÁ„o\nova pasta (2) - copia\include\ct.h
+	<string>
+
+1511113866 c:\users\ariel\documents\teste execuÁ„o\nova pasta (2) - copia\include\solucao.h
+	"../include/Instancia.h"
+	"../include/Turma.h"
+	"../include/CT.h"
+	<vector>
+
+1504478188 c:\users\ariel\documents\teste execuÁ„o\nova pasta (2) - copia\include\turma.h
+	"../include/Cliente.h"
+	<vector>
+
+1511115285 c:\users\ariel\documents\teste execuÁ„o\nova pasta (2) - copia\include\construtivoguloso.h
+	"../include/Solucao.h"
+
+1520725605 source:c:\users\ariel\documents\teste execuÁ„o\nova pasta (2) - copia\src\construtivoguloso.cpp
+	"ConstrutivoGuloso.h"
+	<algorithm>
+	<string>
+	<iostream>
+	<ctime>
+
+1520813267 source:c:\users\ariel\documents\teste execuÁ„o\nova pasta (2) - copia\src\solucao.cpp
+	"../include/Solucao.h"
+	"../include/ConstrutivoGuloso.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	<algorithm>
+	<ctime>
+
+1242189978 c:\users\ariel\documents\teste execuÁ„o\nova pasta (2) - copia\rapidxml-1.13\rapidxml.hpp
+	<cstdlib>
+	<cassert>
+	<new>
+	<exception>
+
+1504043775 c:\users\ariel\documents\teste execuÁ„o\nova pasta (2) - copia\rapidxml-1.13\rapidxml_print.hpp
+	"rapidxml.hpp"
+	<ostream>
+	<iterator>
+
+1242438562 c:\users\ariel\documents\teste execuÁ„o\nova pasta (2) - copia\rapidxml-1.13\rapidxml_utils.hpp
+	"rapidxml.hpp"
+	<vector>
+	<string>
+	<fstream>
+	<stdexcept>
+
+1523475261 source:c:\users\ariel\documents\teste execuÁ„o\nova pasta (2) - copia\src\instancia.cpp
+	"../include/Instancia.h"
+	"../rapidxml-1.13/rapidxml.hpp"
+	"../rapidxml-1.13/rapidxml_print.hpp"
+	"../rapidxml-1.13/rapidxml_utils.hpp"
+	<string>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+

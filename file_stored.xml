@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rootnode version="1.0" type="example">
+	<childnode>Nome</childnode>
+</rootnode>
+for( int i=0; i < planejamentoCTs.size(); i++) {
+        for(int j=0; j <planejamentoCTs[i].turmas.size(); j++) {
+            for(int k=0; k <planejamentoCTs[i].turmas[j].vetorAlunos.size(); k++) {
+
+                xml_node<>* cliente = doc.allocate_node(node_element,"Cliente");
+                record->append_node(cliente);
+
+                string nome = planejamentoCTs[i].turmas[j].vetorAlunos[k].nomeCliente;
+                string idcliente = patch::to_string(planejamentoCTs[i].turmas[j].vetorAlunos[k].clienteId);
+
+                xml_node<> *idCliente = doc.allocate_node(node_element, "id_cliente",idcliente.c_str());
+                cliente->append_node(idCliente);
+
+                xml_node<> *nomeCliente = doc.allocate_node(node_element,"NOME",nome.c_str());
+                cliente->append_node(nomeCliente);
+
+                string idTurma = patch::to_string(planejamentoCTs[i].turmas[j].idTurma);
+                string nomeCT = planejamentoCTs[i].nomeCidadeCT;
+                string idct = patch::to_string(planejamentoCTs[i].ctId);
+
+                xml_node<>* id_turma = doc.allocate_node(node_element, "id_Turma",idTurma.c_str());
+                cliente->append_node(id_turma);
+
+                xml_node<>* nome_CT = doc.allocate_node(node_element, "Nome_CT",nomeCT.c_str());
+                cliente->append_node(nome_CT);
+
+                xml_node<>* id_CT = doc.allocate_node(node_element, "id_CT",idct.c_str());
+                cliente->append_node(id_CT);
+
+            }
+        }
+    }
+
